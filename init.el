@@ -42,3 +42,6 @@
 
 ;;jade stylus
 (require 'init-jade)
+
+;;scss
+(require 'init-scss)

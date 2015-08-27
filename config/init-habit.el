@@ -11,6 +11,11 @@
 ;;回车并缩进
 (global-set-key (kbd "RET") 'newline-and-indent)
 
+(setq-default indent-tabs-mode nil)
+(setq tab-width 2)
+(setq default-tab-width 2)
+(setq css-indent-offset 2)
+
 ;;;-------------------------------------------------------
 
 ;;;------------------------------------------
