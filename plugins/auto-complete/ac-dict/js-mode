@@ -10,7 +10,7 @@ Element
 FileUpload
 Form
 Frame
-Function
+function
 Hidden
 History
 Image
@@ -39,7 +39,7 @@ String
 Submit
 Text
 Textarea
-Window
+window
 alert
 arguments
 assign
