@@ -33,3 +33,12 @@
 
 ;;smex
 (require 'init-smex)
+
+;;coffee-mode
+(require 'init-coffee)
+
+;;neotree
+(require 'init-neotree)
+
+;;jade stylus
+(require 'init-jade)
