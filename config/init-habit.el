@@ -6,6 +6,9 @@
 ;;关闭自动备份
 (setq-default make-backup-files nil)
 
+;;默认编码
+(prefer-coding-system 'utf-8)
+
 ;;;tab与缩进设置-------------------------------------------
 
 ;;回车并缩进
