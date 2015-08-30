@@ -1,1 +1,1 @@
-iMumu emacs config.
+# iMumu的emacs配置
